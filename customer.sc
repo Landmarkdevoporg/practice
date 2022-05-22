@@ -3,3 +3,4 @@ second in master branch
 third lin in dev branch
 commit one in red
 commit two in green
+commit three in blue
